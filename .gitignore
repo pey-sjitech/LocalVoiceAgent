@@ -1,0 +1,28 @@
+# Voice model files — download separately with download_voices.py
+voices/
+
+# Personal conversation history
+data/history.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Build / dist
+dist/
+build/
+*.egg-info/
